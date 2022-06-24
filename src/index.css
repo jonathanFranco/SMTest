@@ -1,0 +1,13 @@
+body {
+  scroll-behavior: smooth !important;
+  user-select: none;
+  background-color: #EEEEEE;
+}
+
+.text-blue {
+  color: #1366e2;
+}
+
+.bg-blue {
+  background-color: #1366e2;
+}
